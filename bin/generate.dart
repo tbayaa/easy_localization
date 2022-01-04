@@ -193,6 +193,7 @@ Future _writeKeys(
     ) async {
   var file = '''
 // DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+// @dart=2.12
 ''';
 
   final fileData = File(files.first.path);
