@@ -193,7 +193,6 @@ Future _writeKeys(
     ) async {
   var file = '''
 // DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
-// @dart=2.12
 ''';
 
   final fileData = File(files.first.path);
@@ -315,7 +314,6 @@ Future _writeJson(
   var gFile = '''
 // DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
 // ignore_for_file: prefer_single_quotes
-// @dart=2.12
 import 'dart:ui';
 import 'package:easy_localization/easy_localization.dart' show AssetLoader;
 class CodegenLoader extends AssetLoader{
