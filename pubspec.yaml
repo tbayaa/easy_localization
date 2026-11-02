@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: '>=2.0.0 <3.0.0'
-  intl: 0.20.2
+  intl: 0.20.3
   args: 2.7.0
   path: 1.9.1
   easy_logger: 0.0.2
